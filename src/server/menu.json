@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Sütlü Tatlılar",
+    "image": "",
+    "items": [
+      {
+        "name": "Sütlaç",
+        "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/04/lokanta-usulu-sutlac-tarifi.jpg",
+        "price": 12
+      },
+      {
+        "name": "Kazandibi",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBISEhISEhESERERERAREREREREPERESGBQZGRgUGBgcIS4lHB4rHxgYJzgmKy8xNTU1GiQ7QDszPy80NTEBDAwMEA8QHhISHjQhISE0NDExNDQ0NDQ0NDQxNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAAECAwUGB//EADcQAAIBAgUDAgQFAwIHAAAAAAABAgMRBAUSITFBUWEGEyJxgZEUMkJSoWKx0RXBM0NEU3LS8f/EABkBAAMBAQEAAAAAAAAAAAAAAAABAwIEBf/EAC8RAAICAQIEAwcEAwAAAAAAAAABAhEDEiEEEzFBUWHRIzJCcZGh8CKxwfEUUuH/2gAMAwEAAhEDEQA/AOmp1C2NQy4Vi2FYyI1qdQIhVMmNYthXGM2YVC2MzHhiS6GJGBrRqE1My44gtjiBAaKmOpgKrk41AAOUySmBqZNTAAnWS1AqmSVQBhGoWsp1EdYhl7mRlMpcyMpiYEpyBqkx5TBqkiUhMqrTKHW8j1pmfUnuceS0YZoKYvdM9V9iuWI3MqQrNFsg4gixBbGsaVBYTGmNVaSIwrA2Kq7A5qJ14IWc96gqXTRydeJ0uZ3k2Y0sPdnK8tyPYx4qjSMWcRI255fdcGfWwjiXx5FLoE8VdQOpLYEmGVaYJUiViTaB5MeMWWRpikUsNI2q3Ul75TJMpbGopg2eoLF+S2OK8ltP0+/IVDIn2O1JngWCrGFkcYGxyV9i2GTvsaoVgUcWXQxT8hscrfYsWA082Ch6gaGJZfTqsdxhHklCvDsxbDVsvpzYXGTBqdVftYRGp4DYdMtUmSUmRhLuiakuwhjqTJKQ8WicYoVAR1CuW+2RcAaArciE5l2gjKmZaGB1JgtSqaM6ILUw5iUGZZlV8QBzqmtUwfgHngfBzyxyMOzL1k0g/wD0/wADrBPsT5MkZoBWwtYc8H4Kp4Jj5bCiiFUatO5fDBsaphWc+XGz0uEl4mBjYgtKCbNnF0dmY2rTI853bR7kHsHQoqwBjsOgpYpFNespHbw+Np2ZyzVUYVbDGfVw50E4plEqSOqS8Dmi/EwJYVg8sNO50E6fgqVDfgcdQTlExlhZjfgn2Omp0k0L2F2NqTJuPmezxwa7Fiwi7BqiOononiUBLCrsP+GQbYpr1FFAOgSrFRRh46uuEVZ5n0IPSneT6HPRzCU3ds5M3EqOyO7Bwja1SNyFHVyXwoRXUy6OM2CIYm5JZky7w0a0IRCYJGVCsEwxC7lY5URliaNGLiSdjL9+75HeKt1NLIYeI07ISkkY1TGvoKOLkzSyWZeHub0ay7lqkmYNPENhcau22xRSJPEamkTgBUsQ+oVCrcZhxaFKmVyphK3E6ZqjIFKkR9gP9sXtioVGf7CGdA0PbGdMNKCjOdAjKgaTpkXTFpCjNVAaeHv0NJ0hvbMygmUhLT0MKvgE+hj4nJYtvY7OVIpnhzmfCQbujrjxUoqjhamReCieSPyd7LDIrlhF2KLAl0D/ACmeezyea4YPPLai6XPRZYJdimWXrsHJGuJPOJ4SouYsommuYtfQ9InlifQEq5NF/pQnhZpcSjgITQ866udfiPTsH+kzJ+llfl/cjLHOzohmxtHriY9yCJHoHjCnOyOU9TZ0qUHZ3k9kjdzGtpi/keZZxUdSpJt7JtI5uJzaFS6s7OEwKcrfRGRVrzqTcpO7bDMPKwJo3LIs81qz2EzThV8l1PENdTIdRotjVfQaiZtM2Pxb7lscb3Zj62iKbk9i0USlsbkcW3wwinGT3bZmUoWs7hynKys/odEIrucs5PsaVChdXuWSko+ehnQnPZbxT6hkKP8AU355RaNUc8rvcNhCPPA8pW43KHT1uylbbdBFow0rf522GZEptPixdGqu5FSnJNxireepBx+V304C/AdX1C6eLt1uGUcUpdTNw9KHDauyUqahK95JdLK6GpE5QV7GwmOZ9LFeU1/ITDExfXc2pJk3FouEOmMMyMRZIZgAwzHaEADEbErCsAEdJFwLLDWALK3BEXTRaM0AFTpIi6CLhDAGeGXYh+FXYNEKh6qC7CsTEAjDzt2hL5M88rxu2emZtR1Qa8M4HEYe0muzOHio3JM9Lg5pRaMWpTKJSsaVWmAVqZJQVHU57kPcLqckgKbsUSqszos1rNGrilwKlXaMy93uwuE1bwisY0SlKzUp15Wvt/gMw8XKzTk1/CMeji0uIprvIKw+NdpJbS531WVnx2KEnbOpw83TjFXUt9tQRTxKTab2TTaja2p7qz7HLvET3abklpbUZpxgtnqSa53NCnXtLVpkpO0XKEueN1Hdx4t1V1wzTyUYWFs34Yna8XTi7Nyd79ebgk8VPVJuckrOStByi13U+F9QKOJTbXt3kpbuULu7XLWuzfTjp5DaMcRN2jBRTSV1tsvC2f3JS4hJ1e/gt2aWGt6289gj/UFzqk7aXa60uNubN3t5I1MfBtOWuL53aik7bcPz5LY5M4p63s7/AA2Vtwill8FzC6MPLllso/X/AIL2Me9/IGWZRcrpTmrKycI9OtycsfUs2oSu/ktvG+wdCkldJJeLD+2l58G/bv4kvkvUnrxf6/f0Mt4qt/2o3e/xPr24L/xNRf8AKi+uzf8AgPTT5RW/CBwzL4/svQObjfw/uVU8wlFPVGUWle35kHYLNKdT9Sv2ez+wK6WpbgmLwEXvGLUu62Fzc+NW1qX0foLRhnt7r+x0yVxaTnsDj61HarFzp/u/XHy+50dGrGcVKDUotXTR14s0ci26+D6nPkxSx9d14roV6COkJ0jOJSyQPpI2CHEbSMCiwrF2ki4gBVYaxY4kWgAgKxNoawwIjErDAAbYViVhWM2BRXp3RyecZbK7lFb/ANzsmiqtSTRicFJUymPI4O0eX1IWbTVn2ewDWpo7D1Fg46XJKzXU5JyVyGjTsdscmvcysRSAqlM3cRFNGdWp2BxNazMm3x1L6L2s+OXuQdO7Y9eml0/nkRqyc6i72726+PAXScna+u2+8U3ffl9+AKmop6n8OyW/HHX6XL4ylKKUJNNtpWb1uyTX0d/4MNtdCkYpvcPhU1Xaa3TX5JtX/UubX/8AU6TJ8rqVlBylKEFtZXi5LyW+nvTvwxqVY/E/i0t6ndu932Osp07WXHhE4wlPyj936InlzqG0d39kU4fK6dNK23fq39Q5tLhEas4U4uU3pS6vf6Luef8AqT1PjJydPB0/Yp3t7sop1ZfJPaC+7+R0J48O2yOOMcuZ7b+fY7+Uu/0AMZmdGnGTnUpx021Xknpu7K6XFzzOhluMqy1VKlWUv3yqTb+jvsdNgPT8VRqU7K9SOmbtvJPz15MPiVdJWUfDaV+qRrT9R4SEdf4mlK/6actcvstzn5+t5SlJU8JUlFPlyjF2+QXS9LQjbbi3jgPo+moc6Uk+fPkSzZJe7ENGGPWVmGvWFR/9JUXX88eDSw3qyi4KVSM6cuHGUW/qmtjQqenYbKMU/muCNT0nFrs/CQ1PMttINcO+7QVgM3o1VeFSMvruacWcBmHp6pQl7kHKMld7df8AIXknqRxkqeI+F8KXRjhnt1JUKfD7aoO0djVXKtdA9LE/h5Jxu6cn8UF+n+pBtCpGaupJpro7lWMpLS9t7GsmN+9F01+f2Yx5F7rWz/P6NqE1JKUXdNXTXVDs5307jdMpYeXT4qbfbrH6HQtlsWTmRUiWXG8cnF/iGZEdjWNmBCExDATK2ibZEYiDRFonYawARsRsTaGsMA4QhGQEVVZWRY2CYqezADkfU+LdnCK+ZwrrOMtz0DG4TW231OYzTKeWkYlBvc6ITSVAEKie5Xi43W3IDOcqbsy+hiVLruT6FtV7oolRte66q5NUU/hu1s/iuuel/BOfPOz/ALknLpZapaknsuVyOh2waMNSWr4VNyhN7JqHxX+T2X3Nv0nluuprd3ojHmzbbW2/a1jNjSSsuJOM43cLp3W/y4W/lHc+lMOoU0rWk+evy/g5ci3jHxL69MJSR0lDaKQsTWVOKk93JqMV3bLKcDhvUfrKi6kYU6dWUqVSanJqMItWaaSvf8yXKXB1N0jzUtTOqlFz3nv/ALfIr/0+D30r7I5mfruloWihVdTSvhlojBS/8k27fQsyz1rTltWpypbfmi3Ui38krojKMG7ZtOa6HSwwcV0CI0UvBh1PV2ETSUpyu7OUactK87gmJ9ZU037dKpUs+W1BPyupr2celGf1s6uNNMsUEjzzE+tsQ/8AhUoQt++82/7A8PVeNlK8ppL9sIKKHzYINEmemaexO7OPyvPpSspXfzOlw+LUhxyxkZcGiWKw8Zqz+/Y4T1RlcYSUlG6Vk+m3c9DumYnqHDqcJXXRoxniq1Lqi3DzalXZnOel8a09Gq6vsd1h5KS3PK8mrOFVpbxUrHouAxN4oWGaTo3nhvZXmmDdOVPEU/0TjqXeLdmzooO6T7pGZjpx9mbm7R0Sv9grKa2uhTl3hH+xaGlSdd9/49CM3JwV9tv5CRxMYsSEM0OIKAaw1hxDERsRLCLACDQrEhgAKEMpDiArqMz6u/JozQHUjuNAAVKQDicKn0NiUSmdMYWcRm+TqaexxWOwVSlK6uewYjD3MDMssjJPYTVmlJo88w+Yavhls13D41L2d1twvI2a5JZtpWZjQrToyWtOUE97c2JuJaOTxOok9dPUvzRlvwrxV1fbnn+52Po+EtF6nT8qvwefYPMaWtwjNONRbOTtpb6Pyj0D03iFoUb72TOPMlrg34nUpXhkkdSp8HC+psgbrVJ04alUbqWVrpvn+d/qdxTlcevh1Np9bHQ46o0cKelnkby2a/S180Thls+x6pHAwe8op/PdD1cupTVnCK7NJJr7EeTJ9zbynl8MulfixoYbJ5P/AOHYrLFF7q/kJjhUuhlYZPqDyHLUMjiuY3+hbPKI9IpfQ6mOH8Evw6N/44uYzmKGWW6WZrYWm42NJYdE1SQLh6DmWPBbGR6gqxjTnKTSSTbualasorwjy/1hn34ip7FO+iEvjfSUl0HnktOk1gi3KyzJUpz1JW1O532X0bJHC+n0o2O+wdRaUc+GUXPcvnTSJZtiFTpNuKknaNn1uG5VHTSgraeNl08AeIw8azhB8Rkm/obEY2Vux1443kc+1V6nNN1jUe936EWIdxGaOhERhCEMBCEIAEM0OMwAiIdjAMISHEIQhMHqwCCE0AATRCSLpIraNADzgCVqNw+USuUAA53G5epJ7HK5pkvOx6HUpeADE4S/QAs8dx+TSi7xumuxvekczqKbVSylHRF721py2kl3W9/mdPmGUqV7I5jG5TKLuk011V0/uiOXGpxpl8OVwlfbuel5fm1CdowqwlPspXT+T4ZqxreTxLLq9TCSatKVJ3emP5lL+lt7I04erqzk4wnoha69xXnF/tv2OdcyEtNWuzK8qE1adPuj1mVdLqSjXOIyz1BqpxlVavsnK6+7RpyzmCdtSk1baL1eehN8RuJ8PJbHSVKqHhPY5eedVHfTRqSt/RKz+xKnmWJmrLD1U+zjKK+7KLiPJ/Qy+Hl5fU6SU/IyqW5f3OfjPFyVnh5Re2+uO3kFx2BzCrFxj7dO/wCpuUpW/wBmNZJvpF/sZ5SXWSOr96wNWx8V1/kwcBlWOhBwdWNn1knOUfkyxempylqqVZzfZfDH7Gvay6KvmGnHF7u/kD5xnFSpCdOiviaaUnwvJwmHyXE025Thru23Jctvlnq2HyeEFZILjl8exrkJqpbsaz6XsjzbAY+FHeomvpvc6/Icyjitqab09Xwadb07h6n56cZfNBuXZZSoK1OCgvCsQhwSjK7K5OKjKNKO4Rg8P7au95PlhGodbicTtSSVI5G23bG1CbGsIYhCEIYhhDiABhCuRbABMYZsbUABYhCEAhDDXAB3FEHSRIQADzpEHALIzgOwBHTK5YZPoFaR7ABmzy+L6A9TJ4S5imbVh9IAc5L03RlzBAsvRWEbu6d/q0daoj2FSHqfiYeF9O4aH5aMF50RbNGGDhHiCXySQXYVhUgbb6lKpLsSUC6whiK9AtCLBgAjoH0jiABtKFYkMwAaw4hwAYtK0iwAIuJFosGYAQGY7GGAwhNjNgAzGsM5pEJYiK6gBZpFpBKmYRXUDnm8b8gBu6hahxCAa44hAgEIQgAQ4hABCSI2EIEAh0hCGA4whCYCHEIAEIQhgIQhAAhhCEwHGYhAAhxCAB0x9QhAAzmiEqy7iEOgKp4ldyieMiuohDoAapmUV1QHWziK6iEJs2ooz62d9mA1c3k+BCJSmy0ccQWeMk+pQ6/kQiLm2UUEf//Z",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "name": "Şerbetli Tatlılar",
+    "image": "",
+    "items": [
+      {
+        "name": "Fıstıklı Baklava",
+        "image": "",
+        "price": 16
+      },
+      {
+        "name": "Cevizli Baklava",
+        "image": "",
+        "price": 14
+      },
+      {
+        "name": "Şöbiyet",
+        "image": "",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "name": "Çikolatalı Tatlılar",
+    "image": "",
+    "items": [
+      {
+        "name": "Puding",
+        "image": "",
+        "price": 8
+      },
+      {
+        "name": "Sufle",
+        "image": "",
+        "price": 18
+      },
+      {
+        "name": "Fondü",
+        "image": "",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "name": "Börekler",
+    "image": "",
+    "items": [
+      {
+        "name": "Tepsi Böreği",
+        "image": "",
+        "price": 13
+      },
+      {
+        "name": "Çin Böreği",
+        "image": "",
+        "price": 18
+      },
+      {
+        "name": "Sigara Böreği",
+        "image": "",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "name": "İçecekler",
+    "image": "",
+    "items": [
+      {
+        "name": "Su",
+        "image": "https://pbs.twimg.com/profile_images/378800000294570046/9ae4f4fc39c3f36af0f4f4683a2a37f8.jpeg",
+        "price": 4
+      },
+      {
+        "name": "Çay",
+        "image": "https://i4.hurimg.com/i/hurriyet/75/770x0/5dc862bf18c77314ccec2ace.jpg",
+        "price": 2.5
+      },
+      {
+        "name": "Türk kahvesi",
+        "image": "https://i4.hurimg.com/i/hurriyet/75/0x0/5fca383fc9de3d05fc0dfd62.jpg",
+        "price": 8
+      },
+      {
+        "name": "Filtre kahve",
+        "image": "https://mithra.coffee/blog/wp-content/uploads/2021/01/en-yumusak-icimli-filtre-kahve.jpg",
+        "price": 10
+      },
+      {
+        "name": "Ayran",
+        "image": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11552597/sutas-ayran-300-ml-5332e7-1650x1650.jpg",
+        "price": 4.5
+      },
+      {
+        "name": "Coca Cola",
+        "image": "https://d2uiaykj5yb3c0.cloudfront.net/onur/img/p/06402b11-d8e1-451c-b3f4-d8a4dca7c329.jpg",
+        "price": 8
+      }
+    ]
+  }
+]
