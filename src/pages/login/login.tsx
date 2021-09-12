@@ -1,7 +1,9 @@
 import React from "react";
 
+import { NotImplemented } from "../../components";
+
 // material-ui
-import { Theme, makeStyles, createStyles } from "@material-ui/core";
+// import { Theme, makeStyles, createStyles } from "@material-ui/core";
 
 // exports
 export { Login };
@@ -9,7 +11,7 @@ export { Login };
 interface LoginProps {}
 
 function Login(props: LoginProps) {
-  return <>Login Page</>;
+  return <NotImplemented />;
 }
 
-const useStyles = makeStyles((theme: Theme) => createStyles({}));
+// const useStyles = makeStyles((theme: Theme) => createStyles({}));

@@ -1,5 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  useHistory,
+} from "react-router-dom";
 
 // material-ui
 import {
@@ -11,7 +16,6 @@ import {
   Toolbar,
   Typography,
 } from "@material-ui/core";
-import MenuIcon from "@material-ui/icons/Menu";
 import { AccountCircle } from "@material-ui/icons";
 import WbSunnyIcon from "@material-ui/icons/WbSunny";
 import Brightness3Icon from "@material-ui/icons/Brightness3";
@@ -22,7 +26,7 @@ import Theme from "./theme";
 import * as snack from "./components/snackbar";
 
 // pages
-import { Home, Menu, Login } from "./pages";
+import { Home, Menu, Login, Cart } from "./pages";
 
 export { Routes };
 
@@ -30,6 +34,10 @@ function Routes(props: {}) {
   return (
     <Router>
       <Switch>
+        <Route path="/cart">
+          <RouteElement component={<Cart />} />
+        </Route>
+
         <Route path="/menu">
           <RouteElement component={<Menu />} />
         </Route>
@@ -50,6 +58,19 @@ function RouteElement(props: { component: React.ReactNode }) {
   const classes = useStyles();
   const paletteType = Theme.usePaletteType();
   const togglePaletteType = Theme.useTogglePaletteType();
+  const history = useHistory();
+
+  const gotoCart = () => {
+    if (history.location.pathname !== "/cart") {
+      history.push("/cart");
+    }
+  };
+
+  const gotoLogin = () => {
+    if (history.location.pathname !== "/login") {
+      history.push("/login");
+    }
+  };
 
   return (
     <div
@@ -63,17 +84,10 @@ function RouteElement(props: { component: React.ReactNode }) {
     >
       <AppBar position="fixed" className={classes.appBar}>
         <Toolbar>
-          <IconButton
-            edge="start"
-            className={classes.menuButton}
-            color="inherit"
-          >
-            <MenuIcon />
-          </IconButton>
           <Typography variant="h6" className={classes.title}>
             Canan Kafe
           </Typography>
-          <IconButton>
+          <IconButton onClick={gotoCart}>
             <ShoppingCartIcon color="inherit" />
           </IconButton>
           <IconButton color="inherit" onClick={() => togglePaletteType()}>
@@ -83,7 +97,7 @@ function RouteElement(props: { component: React.ReactNode }) {
               <Brightness3Icon color="inherit" />
             )}
           </IconButton>
-          <IconButton color="inherit">
+          <IconButton color="inherit" onClick={gotoLogin}>
             <AccountCircle />
           </IconButton>
         </Toolbar>
